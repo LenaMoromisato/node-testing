@@ -17,3 +17,6 @@
 * npx eslint index.js
 
 * extensão ESLint
+Para “chamar” o Eslint no VSC e organizar seu código automaticamente, utilize o atalho ctrl + shift + P (Windows/Linux) ou cmd + shift + P (MacOs), digite Eslint e escolha a opção "Fix all auto-fixable problems" ou posicione o cursor piscante sobre alguma das linhas sublinhadas vermelhas e utilize o atalho ctrl + . para abrir o menu do Eslint e escolher “Fix all auto-fixable problems” se estiver disponível.
+
+* node index.js
