@@ -28,3 +28,5 @@ Para “chamar” o Eslint no VSC e organizar seu código automaticamente, utili
 * npm run test:watch
 
 * npm run test:coverage
+
+* cd carrinho => npm install
