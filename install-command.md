@@ -24,3 +24,7 @@ Para “chamar” o Eslint no VSC e organizar seu código automaticamente, utili
 * npm install --save-exact jest@28.1.0 --save-dev
 
 * npm run test
+
+* npm run test:watch
+
+* npm run test:coverage
