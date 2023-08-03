@@ -16,4 +16,16 @@ Conteúdo do curso:
 
 * Como utilizar o ESLint para fazer testes estáticos em JS estabelecendo um padrão de escrita para o código, verificando se há divergências entre o código escrito e o padrão adotado e também analisando a estrutura do projeto em busca de problemas como módulos inexistentes, falta de clareza nas declarações etc;
 
-* A implementar os primeiros testes de unidade utilizando um código implementado do zero.
+* A implementar os primeiros testes de unidade utilizando um código implementado do zero;
+
+* Utilizar métodos nativos de asserções para fins de comparação de igualdade;
+
+* Instalar e executar o Jest com a flag --experimental;
+
+* Criar arquivos de testes com o Jest e analisar erros;
+
+* Usar a função describe um método do Jest usado para conjunto de testes relacionados. O describe possui a sintaxe de dois argumentos:
+1. Uma string para descrever;
+2. Uma função callback para executar o teste.
+
+* Gerar relatório com o coverage, uma ferramenta integrada do jest para cobertura de testes, que possibilita identificar caminhos não testados no código.
