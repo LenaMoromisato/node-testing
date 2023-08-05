@@ -1,3 +1,19 @@
+# Curso Node.js: testes unitários e de integração - parte 2 (Programa Desenvolve da Boticário e Alura)
+
+> Status do projeto: em desenvolvimento
+
+Conteúdo do curso:
+
+* Implementar os primeiros testes unitários em uma API;
+
+* Utilizar o método "skip", que serve para pular temporariamente os testes que constam na coleção de asserções;
+
+* Rodar testes de forma assíncrona (com o then e await);
+
+* Criar funções de simulação (mocks), com o jest. fn(), para simular um novo comportamento no teste.
+
+-----
+
 # API Livraria
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN)
