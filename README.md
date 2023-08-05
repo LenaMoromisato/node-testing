@@ -1,6 +1,6 @@
 # Curso Node.js: testes unitários e de integração - parte 2 (Programa Desenvolve da Boticário e Alura)
 
-> Status do projeto: em desenvolvimento
+> Status do projeto: concluído
 
 Conteúdo do curso:
 
@@ -10,7 +10,16 @@ Conteúdo do curso:
 
 * Rodar testes de forma assíncrona (com o then e await);
 
-* Criar funções de simulação (mocks), com o jest. fn(), para simular um novo comportamento no teste.
+* Criar funções de simulação (mocks), com o jest. fn(), para simular um novo comportamento no teste;
+
+* O que são e qual a utilidade dos hooks, para configurar as condições iniciais e finais dos nossos testes;
+
+* A utilizar o supertest, para simplificar as requisições e asserções lidando com o HTTP;
+* Lembrar dos casos de contorno e os motivos pelos quais queremos testá-los;
+
+* Utilizar o test.each() para fornecer tabelas e simplificar as entradas para testes mais repetitivos;
+
+* Conhecer o método jest.spyOn() para acompanhar melhor chamadas de métodos e fazer outras asserções.
 
 -----
 
