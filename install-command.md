@@ -62,3 +62,5 @@ sqlite>
 * npm install
 
 * npm run dev
+
+* npm install supertest@6.2.4 --save-exact --save-dev
