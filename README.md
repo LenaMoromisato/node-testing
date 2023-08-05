@@ -1,3 +1,28 @@
+# Curso Node.js: testes unitários e de integração - parte 2 (Programa Desenvolve da Boticário e Alura)
+
+> Status do projeto: concluído
+
+Conteúdo do curso:
+
+* Implementar os primeiros testes unitários em uma API;
+
+* Utilizar o método "skip", que serve para pular temporariamente os testes que constam na coleção de asserções;
+
+* Rodar testes de forma assíncrona (com o then e await);
+
+* Criar funções de simulação (mocks), com o jest. fn(), para simular um novo comportamento no teste;
+
+* O que são e qual a utilidade dos hooks, para configurar as condições iniciais e finais dos nossos testes;
+
+* A utilizar o supertest, para simplificar as requisições e asserções lidando com o HTTP;
+* Lembrar dos casos de contorno e os motivos pelos quais queremos testá-los;
+
+* Utilizar o test.each() para fornecer tabelas e simplificar as entradas para testes mais repetitivos;
+
+* Conhecer o método jest.spyOn() para acompanhar melhor chamadas de métodos e fazer outras asserções.
+
+-----
+
 # API Livraria
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN)
